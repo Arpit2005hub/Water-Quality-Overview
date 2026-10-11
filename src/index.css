@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --forest-deep: #24473D;
+    --lake-blue: #416B64;
+    --sage-accent: #6D9189;
+    --sage-light: #DCE7E2;
+    --bg-warm: #F5F5F0;
+    --text-charcoal: #343B38;
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #F5F5F0;
+    color: #343B38;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+}

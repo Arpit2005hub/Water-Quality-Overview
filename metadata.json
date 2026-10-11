@@ -1,0 +1,6 @@
+{
+  "name": "Visarjan Ghat Watch",
+  "description": "Historical water quality intelligence and benchmark screening dashboard for selected visarjan ghats in Bhopal, Madhya Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
